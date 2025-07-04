@@ -11,10 +11,10 @@ A console-based Rock, Paper, Scissors game implemented in C++ featuring score tr
 
 ## How to Run
 1. Compile the program:
-    g++ main.cpp -o rps
+    <pre> ```bash g++ main.cpp -o rps``` </pre>
 
 2. Run the executable:
-    ./rps
+    <pre> ```bash ./rps ``` </pre>
 
 ## Technologies Used
 - C++17
@@ -25,3 +25,6 @@ A console-based Rock, Paper, Scissors game implemented in C++ featuring score tr
 - Rock beats Scissors
 - Paper beats Rock
 - Scissors beats Paper  
+
+## License
+This project is licensed under the MIT License.
