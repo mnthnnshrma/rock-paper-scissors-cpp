@@ -11,11 +11,13 @@ A console-based Rock, Paper, Scissors game implemented in C++ featuring score tr
 
 ## How to Run
 1. Compile the program:
-    <pre> ```bash g++ main.cpp -o rps``` </pre>
-
+    ```bash
+    g++ main.cpp -o rps
+    ```
 2. Run the executable:
-    <pre> ```bash ./rps ``` </pre>
-
+    ```bash
+    ./rps
+    ```
 ## Technologies Used
 - C++17
 - Standard Library (iostream, random, iomanip)
