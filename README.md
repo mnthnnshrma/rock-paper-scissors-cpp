@@ -1,4 +1,4 @@
-# Rock, Paper, Scissors Game
+# Rock, Paper, Scissors 
 
 A console-based Rock, Paper, Scissors game implemented in C++ featuring score tracking, statistics, and an interactive menu system.
 
